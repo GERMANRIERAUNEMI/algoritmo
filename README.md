@@ -1,0 +1,2 @@
+# algoritmo
+trabajo de pseudocodigos
